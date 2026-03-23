@@ -4,8 +4,8 @@ tic;
 
 NRs = 32:32:32*8;
 NTs = 32:32:32*8;
-SNR_dB = 10; % 0 or 10
-nMonte = 1e1;
+SNR_dB = 0; % 0 or 10
+nMonte = 1e2;
 NSs = [4,8,12,16];
 
 SNR = db2pow(SNR_dB);
