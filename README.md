@@ -2,7 +2,7 @@
 
 This repository contains code to reproduce the paper:
 
-> M. Nerini, B. Clerckx, "[MIMO systems aided by microwave linear analog computers: Capacity-achieving architectures with reduced circuit complexity](https://ieeexplore.ieee.org/document/)," IEEE Trans. Wireless Commun., 2026.
+> M. Nerini, B. Clerckx, "[MIMO systems aided by microwave linear analog computers: Capacity-achieving architectures with reduced circuit complexity](https://ieeexplore.ieee.org/document/11455580)," IEEE Trans. Wireless Commun., 2026.
 
 ## Code
 
